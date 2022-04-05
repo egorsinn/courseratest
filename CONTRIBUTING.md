@@ -1,4 +1,4 @@
-##Contributing Guides: A Template
+#Contributing Guides: A Template
 
 A template for writing your own contributing guide. Contributing guides are helpful documents that communicate how people can contribute to your open source project.
 
